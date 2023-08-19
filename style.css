@@ -1,0 +1,44 @@
+table{
+border:3px outset;
+border-top-left-radius: 20px;
+margin-left:300px;
+margin-top:50px;
+height:400px;
+width:200px;
+box-shadow:2px 2px 1px 1px;
+background-color: white;
+padding:5px;
+background-image:linear-gradient(to bottom, rgba(242, 244, 249, 0.4),rgba(190, 196, 198, 0.5));
+}
+input{
+font-size:25px;
+height:60px;
+width:70px;
+color:rgb(13, 16, 16);
+border-radius: 10%;
+margin-top:4px;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:5px;
+box-shadow:1px 1px 2px 1px;
+background-color:white;
+}
+button{
+height:20px;
+width:18px;
+}
+.one{
+background-color:rgb(198, 218, 224);
+font-size: 25px;
+color:rgb(12, 12, 12);
+}
+.two{
+    background-color:rgb(241, 14, 14);
+
+}
+.bord{
+    border-radius:20px;
+}
+#output-screen{
+width:350px;
+}
